@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @abhisonar
-- 👀 I’m interested in Software Developmet and Machine Learning
-- 🌱 I’m currently learning JS technologies
-- 💞️ I’m looking to collaborate on React JS works
-- 📫 How to reach me 
+- 👀  interested in Web Developmet and Machine Learning
+- 🌱 currently working on React projects
+- 💞️  looking for Web Development Internshiops and Jobs
 
 <!---
 abhisonar/abhisonar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
