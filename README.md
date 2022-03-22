@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhisonar
-- 👀  interested in Web Developmet and Machine Learning
+- 👀  interested in Web Developmet and Data Science/ML/AI
 - 🌱 currently working on MERN projects
 - 💞️  looking for Web Development Internshiops and Jobs
 
