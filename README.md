@@ -18,7 +18,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=abhisonar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhisonar&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisonar&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
