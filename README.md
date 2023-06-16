@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sonar</h1>
 <h3 align="center">A passionate MERN Stack developer and Data Science Enthusiast</h3>
 <p align="center">
-  <a href="https://github.com/abhisonar/abhisonar"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+abhisonar;I+am+Engineering+student;Web+Developer;Python+Developer;Data+Science+Enthusiast"></a>
+<p align="center">
+  <a href="https://github.com/parkhesakshi/parkhesakshi"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+saskhiparkhe;I+am+Engineering+student;Python+Developer;Data+Science+Enthusiast;Web+Developer"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisonar&label=Profile%20views&color=0e75b6&style=flat" alt="abhisonar" /> </p>
 
