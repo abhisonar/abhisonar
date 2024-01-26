@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sonar</h1>
-<h3 align="center">A passionate MERN Stack developer and Data Science Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="center">
 <p align="center">
   <a href="https://github.com/parkhesakshi/parkhesakshi"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;Full Stack Developer;"></a>
