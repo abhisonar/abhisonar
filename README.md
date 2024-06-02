@@ -6,10 +6,6 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisonar&label=Profile%20views&color=0e75b6&style=flat" alt="abhisonar" /> </p>
 
-- 🔭 I’m currently working on **Facebook Clone**
-
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
-
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisonar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhisonar_) 
